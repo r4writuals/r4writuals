@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Dead_Robins_Club-%F0%9F%92%80_-black?style=round-square" alt="Dead Robins Club"/>
+  <img src="https://img.shields.io/badge/♯-%F0%9F%92%80_-black?style=round-square" alt="Dead Robins Club"/>
 </p>
 
 <hr />
@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  “Forgiveness starts within; I have to forgive myself first.”
+  “You're the closest to Heaven that I'll ever be.”
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=strawhelly&label=Profile%20Views&color=blue&style=round-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=strawhelly&label=Profile%20Views&color=gray&style=round-square" alt="Profile Views"/>
 </p>
